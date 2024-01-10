@@ -14,6 +14,6 @@ My proficiency in Python allows me to develop robust and scalable data analysis 
 
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lhsnam&theme=sunset-gradient&mode=weekly" alt="GitHub Streak Stats" width="50%" height="auto">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lhsnam&theme=sunset-gradient&mode=weekly" alt="GitHub Streak Stats" width="90%" height="auto">
 </p>
 
