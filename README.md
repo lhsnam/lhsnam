@@ -8,4 +8,4 @@ My proficiency in Python allows me to develop robust and scalable data analysis 
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lhsnam&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lhsnam&theme=sunset-gradient&mode=weekly)](https://git.io/streak-stats)
