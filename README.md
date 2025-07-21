@@ -27,6 +27,6 @@ As a data scientist at Zymo Research, I am passionate about leveraging my microb
 
 --- 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lhsnam&theme=sunset-gradient&mode=weekly" alt="GitHub Streak Stats" style="max-width: 100%; height: 120px;">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lhsnam&theme=sunset-gradient&mode=weekly" alt="GitHub Streak Stats" style="max-width: 100%;">
 </p>
 
