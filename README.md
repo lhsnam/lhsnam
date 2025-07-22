@@ -2,8 +2,6 @@
   <img src="img/github-banner.gif" alt="GitHub Banner" style="max-width: 100%; width: 100%;">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lhsnam&label=Profile%20views&color=0e75b6&style=flat" alt="lhsnam" /> </p>
-
 ### Programming with
 <p align="left">
   <img src="https://img.shields.io/badge/Virtual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Virtual Studio Code Badge"/>
@@ -32,13 +30,18 @@
 </p>
 
 ---
-### Something about me: <br>
+### Something about me: <br> 
 
-As a data scientist at Zymo Research, I am passionate about leveraging my microbiome research, Python, and R expertise to drive impactful data-driven solutions. With a strong background in microbiome research, I bring a deep understanding of microbial ecology and the intricate interactions within complex microbial communities.
+I am a data scientist with a keen interest in bioinformatics and computational biology. My work focuses on analyzing complex biological datasets, developing reproducible workflows, and visualizing data to uncover meaningful insights. I enjoy collaborating across disciplines and continuously learning new technologies to advance scientific research.
 
 ---
-
-<p align="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lhsnam&theme=sunset-gradient&mode=weekly" alt="GitHub Streak Stats" style="max-width: 100%; height: 120px;">
-</p>
+<details>
+  <summary>GitHub misc.</summary>
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=lhsnam&label=Profile%20views&color=0e75b6&style=flat" alt="lhsnam" />
+  </p>
+  <p align="left">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=lhsnam&theme=sunset-gradient&mode=weekly" alt="GitHub Streak Stats" style="max-width: 100%; height: 120px;">
+  </p>
+</details>
 
